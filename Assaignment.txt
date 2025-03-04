@@ -1,5 +1,5 @@
  build a next-level login page, throw in some back ground images, and make it look innovative ,not like the regular pages
-Add event handlers, crack open VS Code, save it as .html, and tweak it after 5 days! 
+Add event handlers,  open VS Code, save it as .html, and update it after 5 days! 
 
 
 
