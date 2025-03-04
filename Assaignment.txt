@@ -1,5 +1,9 @@
-CREATE A LOGIN PAGE USE THE IMAGES AND DECORATE IT LIKE SOME THING NEW NOT LIKE THE LOGIN PAGES WHICH HAVE AT PRESENT
-USE THE EVENT HANDLERS
-OPEN VS CODE
-SAVE FILE AS .html EXTENSION 
-UPDATE AFTER 5 DAYS
+ build a next-level login page, throw in some back ground images, and make it look innovative ,not like the regular pages
+Add event handlers, crack open VS Code, save it as .html, and tweak it after 5 days! 
+
+
+
+
+
+
+
